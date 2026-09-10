@@ -14,7 +14,7 @@
 Version: 1.0.2
 Platform: Windows
 
-📥 ডাউনলোড
+📥 ডাউনলোড<br>
 এই Release-এর সাথে সংযুক্ত ShadhinKeyboard-v1.0.2.zip ফাইলটি ডাউনলোড করে ব্যবহার করুন।
 https://github.com/towhid/shadhin-keyboard/releases/download/v1.0.2/ShadhinKeyboard-v1.0.2.zip
 
