@@ -15,7 +15,7 @@ Version: 1.0.2
 Platform: Windows
 
 📥 ডাউনলোড<br>
-এই Release-এর সাথে সংযুক্ত ShadhinKeyboard-v1.0.2.zip ফাইলটি ডাউনলোড করে ব্যবহার করুন।
+এই Release-এর সাথে সংযুক্ত ShadhinKeyboard-v1.0.2.zip ফাইলটি ডাউনলোড করে ব্যবহার করুন।<br>
 https://github.com/towhid/shadhin-keyboard/releases/download/v1.0.2/ShadhinKeyboard-v1.0.2.zip
 
 ❤️ স্বাধীন কিবোর্ড<br>
@@ -23,7 +23,7 @@ https://github.com/towhid/shadhin-keyboard/releases/download/v1.0.2/ShadhinKeybo
 বাংলা, ইংরেজি ও আরবি ভাষায় কম্পিউটারে আরও সহজে লেখার সুবিধা সবার কাছে পৌঁছে দেওয়াই এর মূল উদ্দেশ্য।
 
 প্রস্তুতকারক:<br>
-Mohammad Towhidul Islam
-Founder, Intellect Software Ltd.
+Mohammad Towhidul Islam<br>
+Founder, Intellect Software Ltd.<br>
 
 🌐 https://intelsofts.com/
