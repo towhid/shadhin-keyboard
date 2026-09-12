@@ -14,9 +14,17 @@
 Version: 1.0.2<br>
 Platform: Windows<br>
 
-**📥 ডাউনলোড**<br>
-এই Release-এর সাথে সংযুক্ত ShadhinKeyboard-v1.0.2.zip ফাইলটি ডাউনলোড করে ব্যবহার করুন।<br>
+
+**📥 ডাউনলোড এবং সেটাপ**
+প্রথমে .NET 10 Desktop Runtime ইনস্টল করুন।
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-10.0.401-windows-x64-installer
+
+ShadhinKeyboard-v1.0.2.zip ডাউনলোড করুন।
 https://github.com/towhid/shadhin-keyboard/releases/download/v1.0.2/ShadhinKeyboard-v1.0.2.zip<br>
+
+ZIP ফাইলটি Extract করুন।
+ShadhinKeyboard.exe চালু করুন। Read More... অপশনে ক্লিক করুন। Run Button এ ক্লিক করুন।
+
 
 **❤️ স্বাধীন কিবোর্ড**<br>
 স্বাধীন কিবোর্ড কোনো বাণিজ্যিক উদ্দেশ্যে তৈরি নয়।
