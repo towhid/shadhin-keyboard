@@ -19,11 +19,11 @@ Platform: Windows<br>
 প্রথমে .NET 10 Desktop Runtime ইনস্টল করুন।<br>
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-10.0.401-windows-x64-installer<br>
 
-ShadhinKeyboard-v1.0.2.zip ডাউনলোড করুন।
+ShadhinKeyboard-v1.0.2.zip ডাউনলোড করুন।<br>
 https://github.com/towhid/shadhin-keyboard/releases/download/v1.0.2/ShadhinKeyboard-v1.0.2.zip<br>
 
 ZIP ফাইলটি Extract করুন।<br>
-ShadhinKeyboard.exe চালু করুন। Read More... অপশনে ক্লিক করুন। Run Button এ ক্লিক করুন।
+ShadhinKeyboard.exe চালু করুন। Read More... অপশনে ক্লিক করুন। Run Button এ ক্লিক করুন।<br>
 
 
 **❤️ স্বাধীন কিবোর্ড**<br>
